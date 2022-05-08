@@ -23,7 +23,7 @@
 
 - tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
 
-- 数据库版本：MySql 5.x，（[点击查看 ：更换为 MySql8 的步骤]()）
+- 数据库版本：MySql 5.x
 
 - 硬件环境：Windows 或者 Mac OS
 
@@ -61,7 +61,7 @@
 
 ## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
+[点击播放视频，视频位于文章最后](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483911&idx=1&sn=4b4c952606fdf95fd30ef50d17e0a568&chksm=c0a79eb2f7d017a43e1c614f01a275c85a389a044615e7318276d009606f0c56a6041921ab01&token=1542545131&lang=zh_CN#rd)
 
 ## 6、获取方式
 
