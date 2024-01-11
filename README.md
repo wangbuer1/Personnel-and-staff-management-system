@@ -1,4 +1,4 @@
-# 人事员工管理系统SSM
+# 人事员工管理系统SSM0
 
 ## 1、项目介绍
 
@@ -18,13 +18,10 @@
 ## 3、开发环境
 
 - JAVA版本：JDK1.8，其它版本理论上可以
-
 - IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
-
 - tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
-
 - 数据库版本：MySql 5.x
-
+- maven项目：否
 - 硬件环境：Windows 或者 Mac OS
 
 
@@ -32,19 +29,19 @@
 
 ### 4.1登录界面
 
-![登录](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220508205543.png)
+![登录](https://www.codeshop.fun/Typora-Images/20220508205543.png)
 
 管理员和职工均可以通过此页面登录至不同的功能主页。
 
 ### 4.2管理员功能模块
 
-![管理员-用户列表](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220508205555.png)
+![管理员-用户列表](https://www.codeshop.fun/Typora-Images/20220508205555.png)
 
-![管理员-员工列表](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220508205558.png)
+![管理员-员工列表](https://www.codeshop.fun/Typora-Images/20220508205558.png)
 
-![管理员-添加员工](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220508205603.png)
+![管理员-添加员工](https://www.codeshop.fun/Typora-Images/20220508205603.png)
 
-![管理员-职位列表](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220508205609.png)
+![管理员-职位列表](https://www.codeshop.fun/Typora-Images/20220508205609.png)
 
 - 用户管理的功能包括：添加用户;查询用户，可以查询所有用户或根据用户名和用户状态进行模糊查询，删除、修改用户
 - 部门管理的功能包括：添加部门，查询部门，可以查询所有部门或根据部门名称进行模糊查询，删除部门，修改部门
@@ -55,33 +52,18 @@
 
 ### 4.4 职工功能模块
 
-![职工界面](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220508205654.png)
+![职工界面](https://www.codeshop.fun/Typora-Images/20220508205654.png)
 
 职工权限受限，只可查看部门、用户、职位、公告等信息，不能修改或者添加。
 
-## 5、视频演示
 
-[点击播放视频，视频位于文章最后](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483911&idx=1&sn=4b4c952606fdf95fd30ef50d17e0a568&chksm=c0a79eb2f7d017a43e1c614f01a275c85a389a044615e7318276d009606f0c56a6041921ab01&token=1542545131&lang=zh_CN#rd)
 
 ## 6、获取方式
 
 关注公众号： **程序员王不二**，回复 “员工0 ” ，即可免费获取完整版的项目代码。此公众号持续分享各种免费java项目源码。
 
 
-
-![公众号二维码](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220507213933.jpg)
-
-## 7、其它项目
-
-* [点击访问各种项目源码](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483834&idx=1&sn=40517cecf36ce5d7663ed774a033fa2c&chksm=c0a79d0ff7d0141943c5d8da40b489e8ecdda5c345568776f475576506c76a954bd8238dc4f5#rd)
-
-------
-
-* [SSM框架项目](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387377591113859072#wechat_redirect)
-
-* [springboot项目](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387377898791223296#wechat_redirect)
-
-* [简单无框架项目](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387378317047218183#wechat_redirect)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
   
 
